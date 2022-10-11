@@ -1,5 +1,3 @@
-# 기계학습프로그래밍
-
 <h1 align="center">
 <!--<img src="https://www.ssafy.com/swp/rps/images/drm_ssafy_logo.png"> <br /><br />-->
   머신러닝을 이용한 지능형 온라인 과제 관리 시스템 𝙃𝙤𝙢𝙚𝙇𝙚𝙖𝙧𝙣
@@ -26,8 +24,8 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     <td align="center">
-      <a href=["https://github.com/Hyeok"](https://github.com/hyeokinen/machine-learning-program)><img src="https://avatars3.githubusercontent.com/u/41176405?s=460&v=4" width="100px;" alt=""/></a><br />
-      <a href=["https://github.com/Hyeok"](https://github.com/hyeokinen/machine-learning-program) title="Code">
+      <a href="https://github.com/hyeokinen")><img src="https://avatars3.githubusercontent.com/u/41176405?s=460&v=4" width="100px;" alt=""/></a><br />
+      <a href="https://github.com/hyeokinen") title="Code">
         <sub><b>Hyoek</b></sub><br />💻
       </a>
     </td>
