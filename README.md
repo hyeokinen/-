@@ -2,7 +2,7 @@
 <!--<img src="https://www.ssafy.com/swp/rps/images/drm_ssafy_logo.png"> <br /><br />-->
   머신러닝을 이용한 지능형 온라인 과제 관리 시스템 𝙃𝙤𝙢𝙚𝙇𝙚𝙖𝙧𝙣
   <br />
-  ₂₀.₀₅.₀₄ ₋ ₂₀₂₀.₀₆.₀₉
+  22.10.01 ₋ 22.11.16
 </h1>
 
 <div align="center">
@@ -24,13 +24,15 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/hyeokinen")><img src="https://avatars3.githubusercontent.com/u/41176405?s=460&v=4" width="100px;" alt=""/></a><br />
+      <a href="https://github.com/hyeokinen")>
+<!--         <img src="https://avatars3.githubusercontent.com/u/41176405?s=460&v=4" width="100px;" alt=""/></a><br /> -->
       <a href="https://github.com/hyeokinen") title="Code">
         <sub><b>Hyoek</b></sub><br />💻
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/NamSeonWoong"><img src="https://avatars0.githubusercontent.com/u/52690478?s=460&u=2e93ad8d1ed92c811f4ff467a06d24ede8c61cc5&v=4" width="100px;" alt=""/></a><br />
+      <a href="https://github.com/NamSeonWoong">
+<!--         <img src="https://avatars0.githubusercontent.com/u/52690478?s=460&u=2e93ad8d1ed92c811f4ff467a06d24ede8c61cc5&v=4" width="100px;" alt=""/></a><br /> -->
         <a href="https://github.com/HelomeProject/HelpHomework/commits?author=NamSeonWoong" title="Code">
           <sub><b>NamSeonWoong</b></sub><br />💻
       </a>
