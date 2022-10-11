@@ -26,9 +26,9 @@ Thanks goes to these wonderful people
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Hyeok"><img src="https://avatars3.githubusercontent.com/u/41176405?s=460&v=4" width="100px;" alt=""/></a><br />
-      <a href="https://github.com/Hyeok" title="Code">
-        <sub><b>KoTaeHwan</b></sub><br />💻
+      <a href=["https://github.com/Hyeok"](https://github.com/hyeokinen/machine-learning-program)><img src="https://avatars3.githubusercontent.com/u/41176405?s=460&v=4" width="100px;" alt=""/></a><br />
+      <a href=["https://github.com/Hyeok"](https://github.com/hyeokinen/machine-learning-program) title="Code">
+        <sub><b>Hyoek</b></sub><br />💻
       </a>
     </td>
     <td align="center">
